@@ -14,7 +14,7 @@ requerimientos tecnológicos para el consumo de APIs de Geolocalización.
 Esta práctica será desarrollada con estructura de ramales por cada fase, 
 para que el estudiante continúe practicando la manipulación correcta de 
 ramas en el contexto de control de versiones y desarrollo colaborativo 
-utilizando Git y GitHub.
+utilizando Git y GitHub..
 
 ---
 
