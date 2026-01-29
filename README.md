@@ -20,7 +20,7 @@ utilizando Git y GitHub.
 
 ## Tabla de Fases
 
-| No. | Descripción                                      | Ponderación | Estatus        |
+| No. | Descripcion                                      | Ponderación | Estatus        |
 |-----|--------------------------------------------------|-------------|----------------|
 | 1   | Configuración del Proyecto                      | 3           | ❌ Sin iniciar |
 | 2   | Configuración del Servidor                      | X           | ❌ Sin iniciar |
